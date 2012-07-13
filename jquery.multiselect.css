@@ -1,3 +1,9 @@
+.ui-item-color-0 { background-color: #F9FFE5 }
+.ui-item-color-1 { background-color: #E5EFFF }
+.ui-item-color-2 { background-color: #E5FFEF }
+.ui-item-color-3 { background-color: #EFEFEF }
+.ui-item-color-4 { background-color: #FFF1E5 }
+
 .ui-multiselect { padding:2px 0 2px 4px; text-align:left }
 .ui-multiselect span.ui-icon { float:right }
 .ui-multiselect-single .ui-multiselect-checkboxes input { position:absolute !important; top: auto !important; left:-9999px; }
