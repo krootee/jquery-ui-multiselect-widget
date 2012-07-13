@@ -322,6 +322,15 @@
                     if( !$(this).hasClass('ui-state-disabled') ){
                         self.labels.removeClass('ui-state-hover');
                         $(this).addClass('ui-state-hover').find('input').focus();
+                        for(var index=0; index < 5; index++) {
+                            self.labels.removeClass('ui-item-bg-color-' + index);
+                        }
+                        for(index=0; index < 5; index++) {
+                            if($(this).hasClass('ui-item-color-' + index)) {
+                                $(this).addClass('ui-item-bg-color-' + index);
+                                break;
+                            }
+                        }
                     }
                 })
                 .delegate('label', 'keydown.multiselect', function( e ){

@@ -2,6 +2,7 @@
 <project version="4">
   <component name="ChangeListManager">
     <list default="true" id="212e943d-033b-4459-8208-c90eb625eb9e" name="Default" comment="">
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/.idea/workspace.xml" afterPath="$PROJECT_DIR$/.idea/workspace.xml" />
       <change type="MODIFICATION" beforePath="$PROJECT_DIR$/jquery.multiselect.css" afterPath="$PROJECT_DIR$/jquery.multiselect.css" />
       <change type="MODIFICATION" beforePath="$PROJECT_DIR$/src/jquery.multiselect.js" afterPath="$PROJECT_DIR$/src/jquery.multiselect.js" />
       <change type="MODIFICATION" beforePath="$PROJECT_DIR$/src/jquery.multiselect.min.js" afterPath="$PROJECT_DIR$/src/jquery.multiselect.min.js" />
@@ -29,7 +30,7 @@
       <file leaf-file-name="jquery.multiselect.css" pinned="false" current="false" current-in-tab="false">
         <entry file="file://$PROJECT_DIR$/jquery.multiselect.css">
           <provider selected="true" editor-type-id="text-editor">
-            <state line="29" column="0" selection-start="1837" selection-end="1837" vertical-scroll-proportion="0.0">
+            <state line="6" column="54" selection-start="290" selection-end="290" vertical-scroll-proportion="0.0">
               <folding />
             </state>
           </provider>
@@ -38,7 +39,7 @@
       <file leaf-file-name="jquery.multiselect.js" pinned="false" current="true" current-in-tab="true">
         <entry file="file://$PROJECT_DIR$/src/jquery.multiselect.js">
           <provider selected="true" editor-type-id="text-editor">
-            <state line="17" column="41" selection-start="562" selection-end="562" vertical-scroll-proportion="0.0990676">
+            <state line="324" column="62" selection-start="12517" selection-end="12517" vertical-scroll-proportion="0.6099034">
               <folding>
                 <element signature="n#!!doc" expanded="true" />
               </folding>
@@ -46,10 +47,19 @@
           </provider>
         </entry>
       </file>
+      <file leaf-file-name="jquery.multiselect.min.js" pinned="false" current="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/src/jquery.multiselect.min.js">
+          <provider selected="true" editor-type-id="text-editor">
+            <state line="0" column="0" selection-start="0" selection-end="0" vertical-scroll-proportion="0.0">
+              <folding />
+            </state>
+          </provider>
+        </entry>
+      </file>
       <file leaf-file-name="refresh.htm" pinned="false" current="false" current-in-tab="false">
         <entry file="file://$PROJECT_DIR$/demos/refresh.htm">
           <provider selected="true" editor-type-id="text-editor">
-            <state line="9" column="33" selection-start="530" selection-end="530" vertical-scroll-proportion="-5.8846154">
+            <state line="9" column="33" selection-start="530" selection-end="530" vertical-scroll-proportion="-0.65384614">
               <folding />
             </state>
           </provider>
@@ -77,8 +87,8 @@
   <component name="ProjectFrameBounds">
     <option name="x" value="-8" />
     <option name="y" value="-8" />
-    <option name="width" value="1936" />
-    <option name="height" value="1056" />
+    <option name="width" value="1696" />
+    <option name="height" value="1026" />
   </component>
   <component name="ProjectLevelVcsManager" settingsEditedManually="false">
     <OptionsSetting value="true" id="Add" />
@@ -106,6 +116,16 @@
       <sortByType />
     </navigator>
     <panes>
+      <pane id="Scope">
+        <subPane subId="Project Files">
+          <PATH>
+            <PATH_ELEMENT USER_OBJECT="Root">
+              <option name="myItemId" value="" />
+              <option name="myItemType" value="" />
+            </PATH_ELEMENT>
+          </PATH>
+        </subPane>
+      </pane>
       <pane id="ProjectPane">
         <subPane>
           <PATH>
@@ -168,7 +188,6 @@
           </PATH>
         </subPane>
       </pane>
-      <pane id="Scope" />
     </panes>
   </component>
   <component name="PropertiesComponent">
@@ -187,13 +206,13 @@
     <servers />
   </component>
   <component name="ToolWindowManager">
-    <frame x="-8" y="-8" width="1936" height="1056" extended-state="6" />
+    <frame x="-8" y="-8" width="1696" height="1026" extended-state="6" />
     <editor active="true" />
     <layout>
       <window_info id="Changes" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.33" sideWeight="0.5" order="7" side_tool="false" content_ui="tabs" />
       <window_info id="TODO" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.33" sideWeight="0.5" order="6" side_tool="false" content_ui="tabs" />
       <window_info id="Structure" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.25" sideWeight="0.5" order="1" side_tool="true" content_ui="tabs" />
-      <window_info id="Project" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="true" weight="0.24986821" sideWeight="0.5" order="0" side_tool="false" content_ui="combo" />
+      <window_info id="Project" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="true" weight="0.24984913" sideWeight="0.5" order="0" side_tool="false" content_ui="combo" />
       <window_info id="Debug" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.4" sideWeight="0.5" order="3" side_tool="false" content_ui="tabs" />
       <window_info id="Favorites" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.33" sideWeight="0.5" order="2" side_tool="true" content_ui="tabs" />
       <window_info id="Event Log" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.33" sideWeight="0.5" order="7" side_tool="true" content_ui="tabs" />
@@ -281,44 +300,38 @@
     </entry>
     <entry file="file://$PROJECT_DIR$/i18n/jquery.multiselect.cs.js">
       <provider selected="true" editor-type-id="text-editor">
-        <state line="0" column="0" selection-start="0" selection-end="0" vertical-scroll-proportion="0.0">
-          <folding>
-            <element signature="n#!!doc" expanded="true" />
-          </folding>
-        </state>
+        <state line="0" column="0" selection-start="0" selection-end="0" vertical-scroll-proportion="0.0" />
       </provider>
     </entry>
     <entry file="file://$PROJECT_DIR$/demos/basic.htm">
       <provider selected="true" editor-type-id="text-editor">
-        <state line="0" column="0" selection-start="0" selection-end="0" vertical-scroll-proportion="0.0">
-          <folding />
-        </state>
+        <state line="0" column="0" selection-start="0" selection-end="0" vertical-scroll-proportion="0.0" />
       </provider>
     </entry>
     <entry file="file://$PROJECT_DIR$/demos/refresh.htm">
       <provider selected="true" editor-type-id="text-editor">
-        <state line="9" column="33" selection-start="530" selection-end="530" vertical-scroll-proportion="-5.8846154">
+        <state line="9" column="33" selection-start="530" selection-end="530" vertical-scroll-proportion="-0.65384614">
           <folding />
         </state>
       </provider>
     </entry>
     <entry file="file://$PROJECT_DIR$/jquery.multiselect.css">
       <provider selected="true" editor-type-id="text-editor">
-        <state line="29" column="0" selection-start="1837" selection-end="1837" vertical-scroll-proportion="0.0">
+        <state line="6" column="54" selection-start="290" selection-end="290" vertical-scroll-proportion="0.0">
           <folding />
         </state>
       </provider>
     </entry>
     <entry file="file://$PROJECT_DIR$/src/jquery.multiselect.min.js">
       <provider selected="true" editor-type-id="text-editor">
-        <state line="0" column="56" selection-start="56" selection-end="56" vertical-scroll-proportion="0.0">
+        <state line="0" column="0" selection-start="0" selection-end="0" vertical-scroll-proportion="0.0">
           <folding />
         </state>
       </provider>
     </entry>
     <entry file="file://$PROJECT_DIR$/src/jquery.multiselect.js">
       <provider selected="true" editor-type-id="text-editor">
-        <state line="17" column="41" selection-start="562" selection-end="562" vertical-scroll-proportion="0.0990676">
+        <state line="324" column="62" selection-start="12517" selection-end="12517" vertical-scroll-proportion="0.6099034">
           <folding>
             <element signature="n#!!doc" expanded="true" />
           </folding>
