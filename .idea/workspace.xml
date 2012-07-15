@@ -4,8 +4,6 @@
     <list default="true" id="212e943d-033b-4459-8208-c90eb625eb9e" name="Default" comment="">
       <change type="MODIFICATION" beforePath="$PROJECT_DIR$/.idea/workspace.xml" afterPath="$PROJECT_DIR$/.idea/workspace.xml" />
       <change type="MODIFICATION" beforePath="$PROJECT_DIR$/jquery.multiselect.css" afterPath="$PROJECT_DIR$/jquery.multiselect.css" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/src/jquery.multiselect.js" afterPath="$PROJECT_DIR$/src/jquery.multiselect.js" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/src/jquery.multiselect.min.js" afterPath="$PROJECT_DIR$/src/jquery.multiselect.min.js" />
     </list>
     <ignored path="jquery-ui-multiselect-widget.iws" />
     <ignored path=".idea/workspace.xml" />
@@ -27,19 +25,19 @@
   </component>
   <component name="FileEditorManager">
     <leaf>
-      <file leaf-file-name="jquery.multiselect.css" pinned="false" current="false" current-in-tab="false">
+      <file leaf-file-name="jquery.multiselect.css" pinned="false" current="true" current-in-tab="true">
         <entry file="file://$PROJECT_DIR$/jquery.multiselect.css">
           <provider selected="true" editor-type-id="text-editor">
-            <state line="6" column="54" selection-start="290" selection-end="290" vertical-scroll-proportion="0.0">
+            <state line="10" column="41" selection-start="497" selection-end="497" vertical-scroll-proportion="0.20214032">
               <folding />
             </state>
           </provider>
         </entry>
       </file>
-      <file leaf-file-name="jquery.multiselect.js" pinned="false" current="true" current-in-tab="true">
+      <file leaf-file-name="jquery.multiselect.js" pinned="false" current="false" current-in-tab="false">
         <entry file="file://$PROJECT_DIR$/src/jquery.multiselect.js">
           <provider selected="true" editor-type-id="text-editor">
-            <state line="324" column="62" selection-start="12517" selection-end="12517" vertical-scroll-proportion="0.6099034">
+            <state line="324" column="62" selection-start="12517" selection-end="12517" vertical-scroll-proportion="0.0">
               <folding>
                 <element signature="n#!!doc" expanded="true" />
               </folding>
@@ -59,7 +57,7 @@
       <file leaf-file-name="refresh.htm" pinned="false" current="false" current-in-tab="false">
         <entry file="file://$PROJECT_DIR$/demos/refresh.htm">
           <provider selected="true" editor-type-id="text-editor">
-            <state line="9" column="33" selection-start="530" selection-end="530" vertical-scroll-proportion="-0.65384614">
+            <state line="9" column="33" selection-start="530" selection-end="530" vertical-scroll-proportion="0.0">
               <folding />
             </state>
           </provider>
@@ -78,9 +76,9 @@
   <component name="IdeDocumentHistory">
     <option name="changedFiles">
       <list>
-        <option value="$PROJECT_DIR$/jquery.multiselect.css" />
         <option value="$PROJECT_DIR$/src/jquery.multiselect.js" />
         <option value="$PROJECT_DIR$/src/jquery.multiselect.min.js" />
+        <option value="$PROJECT_DIR$/jquery.multiselect.css" />
       </list>
     </option>
   </component>
@@ -116,16 +114,6 @@
       <sortByType />
     </navigator>
     <panes>
-      <pane id="Scope">
-        <subPane subId="Project Files">
-          <PATH>
-            <PATH_ELEMENT USER_OBJECT="Root">
-              <option name="myItemId" value="" />
-              <option name="myItemType" value="" />
-            </PATH_ELEMENT>
-          </PATH>
-        </subPane>
-      </pane>
       <pane id="ProjectPane">
         <subPane>
           <PATH>
@@ -184,6 +172,16 @@
             <PATH_ELEMENT>
               <option name="myItemId" value="demos" />
               <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
+            </PATH_ELEMENT>
+          </PATH>
+        </subPane>
+      </pane>
+      <pane id="Scope">
+        <subPane subId="Project Files">
+          <PATH>
+            <PATH_ELEMENT USER_OBJECT="Root">
+              <option name="myItemId" value="" />
+              <option name="myItemType" value="" />
             </PATH_ELEMENT>
           </PATH>
         </subPane>
@@ -308,33 +306,31 @@
         <state line="0" column="0" selection-start="0" selection-end="0" vertical-scroll-proportion="0.0" />
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/demos/refresh.htm">
-      <provider selected="true" editor-type-id="text-editor">
-        <state line="9" column="33" selection-start="530" selection-end="530" vertical-scroll-proportion="-0.65384614">
-          <folding />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/jquery.multiselect.css">
-      <provider selected="true" editor-type-id="text-editor">
-        <state line="6" column="54" selection-start="290" selection-end="290" vertical-scroll-proportion="0.0">
-          <folding />
-        </state>
-      </provider>
-    </entry>
     <entry file="file://$PROJECT_DIR$/src/jquery.multiselect.min.js">
       <provider selected="true" editor-type-id="text-editor">
-        <state line="0" column="0" selection-start="0" selection-end="0" vertical-scroll-proportion="0.0">
+        <state line="0" column="0" selection-start="0" selection-end="0" vertical-scroll-proportion="0.0" />
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/demos/refresh.htm">
+      <provider selected="true" editor-type-id="text-editor">
+        <state line="9" column="33" selection-start="530" selection-end="530" vertical-scroll-proportion="0.0">
           <folding />
         </state>
       </provider>
     </entry>
     <entry file="file://$PROJECT_DIR$/src/jquery.multiselect.js">
       <provider selected="true" editor-type-id="text-editor">
-        <state line="324" column="62" selection-start="12517" selection-end="12517" vertical-scroll-proportion="0.6099034">
+        <state line="324" column="62" selection-start="12517" selection-end="12517" vertical-scroll-proportion="0.0">
           <folding>
             <element signature="n#!!doc" expanded="true" />
           </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/jquery.multiselect.css">
+      <provider selected="true" editor-type-id="text-editor">
+        <state line="10" column="41" selection-start="497" selection-end="497" vertical-scroll-proportion="0.20214032">
+          <folding />
         </state>
       </provider>
     </entry>
